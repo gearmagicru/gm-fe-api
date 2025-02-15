@@ -1,13 +1,7 @@
 {
     "name": "gearmagicru/gm-fe-api",
-    "description": "Module \"API\"",
-    "keywords": [
-        "gm",
-        "gearmagic",
-        "site",
-        "module",
-        "api"
-    ],
+    "description": "Website module \"API\"",
+    "keywords": ["gearmagic", "gm-panel", "gm-component", "gm-module", "module", "api"],
     "homepage": "https://apps.gearmagic.ru/component/gm-fe-api",
     "type": "component",
     "license": "MIT",
